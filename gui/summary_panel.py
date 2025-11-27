@@ -179,7 +179,7 @@ class SummaryPanel(ttk.Frame):
         trend_scrollbar.pack(side="right", fill="y")
 
         # Refresh button
-        refresh_btn = ttk.Button(self.scrollable_frame, text="Refresh Summary",
+        refresh_btn = ttk.Button(parent, text="Refresh Summary",
                                 command=self.refresh_summary)
         refresh_btn.pack(pady=10)
 
