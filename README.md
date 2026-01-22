@@ -43,7 +43,7 @@ A simple and intuitive personal expense tracking application built with Python a
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/RahulNathan19/Expence_Tracker.git>
    cd Expence_Tracker
    ```
 
